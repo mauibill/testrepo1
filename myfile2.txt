@@ -1,2 +1,2 @@
-1
-6
+Removed lines
+added lines
